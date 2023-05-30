@@ -4,7 +4,7 @@
   "main": "lib/cjs/index.js",
   "module": "lib/esm/index.js",
   "types": "src/index.ts",
-  "repository": "https://github.com/revoltchat/revolt.js",
+  "repository": "https://github.com/FrenzyComs/revolt.js",
   "author": "Paul Makles <insrt.uk>",
   "license": "MIT",
   "scripts": {

@@ -177,7 +177,7 @@ export class Client extends EventEmitter<Events> {
     super();
 
     this.options = {
-      baseURL: "https://api.revolt.chat",
+      baseURL: "https://api.transfem.pp.ua",
       partials: false,
       eagerFetching: true,
       syncUnreads: false,
@@ -275,7 +275,7 @@ export class Client extends EventEmitter<Events> {
     this.events.disconnect();
     this.#setReady(false);
     this.events.connect(
-      this.configuration?.ws ?? "wss://ws.revolt.chat",
+      this.configuration?.ws ?? "wss://ws.transfem.pp.ua",
       typeof this.#session === "string" ? this.#session : this.#session!.token
     );
   }

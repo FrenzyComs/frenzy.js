@@ -3,7 +3,7 @@
 > **Warning**
 > revolt.js is currently being rewritten, it's pretty much ready for use for most applications but is still not entirely feature complete.
 >
-> You can find the [version 6 README here](https://github.com/revoltchat/revolt.js/tree/v6).
+> You can find the [version 6 README here](https://github.com/FrenzyComs/revolt.js/tree/v6).
 
 ![revolt.js](https://img.shields.io/npm/v/revolt.js) ![revolt-api](https://img.shields.io/npm/v/revolt-api?label=Revolt%20API)
 
