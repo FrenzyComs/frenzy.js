@@ -5,7 +5,7 @@
   "module": "lib/esm/index.js",
   "types": "src/index.ts",
   "repository": "https://github.com/FrenzyComs/frenzy.js",
-  "author": "Paul Makles <insrt.uk>",
+  "author": "Ripley White",
   "license": "MIT",
   "scripts": {
     "build": "tsc && tsc -p tsconfig.cjs.json",
@@ -23,7 +23,7 @@
     "README.md",
     "lib"
   ],
-  "description": "Library for interacting with the Revolt API.",
+  "description": "Library for interacting with the Frenzy API.",
   "packageManager": "yarn@3.6.0",
   "dependencies": {
     "@mxssfd/typedoc-theme": "^1.1.1",

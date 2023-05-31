@@ -1,13 +1,8 @@
 # frenzy.js
 
-> **Warning**
-> frenzy.js is currently being rewritten, it's pretty much ready for use for most applications but is still not entirely feature complete.
->
-> You can find the [version 6 README here](https://github.com/FrenzyComs/frenzy.js/tree/v6).
-
 ![frenzy.js](https://img.shields.io/npm/v/frenzy.js) ![frenzy-api](https://img.shields.io/npm/v/frenzy-api?label=Frenzy%20API)
 
-**frenzy.js** is a JavaScript library for interacting with the entire Frenzy API.
+**frenzy.js** is a JavaScript library for interacting with the Frenzy API.
 
 ## Example Usage
 
