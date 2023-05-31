@@ -1,21 +1,21 @@
-# revolt.js
+# frenzy.js
 
 > **Warning**
-> revolt.js is currently being rewritten, it's pretty much ready for use for most applications but is still not entirely feature complete.
+> frenzy.js is currently being rewritten, it's pretty much ready for use for most applications but is still not entirely feature complete.
 >
-> You can find the [version 6 README here](https://github.com/FrenzyComs/revolt.js/tree/v6).
+> You can find the [version 6 README here](https://github.com/FrenzyComs/frenzy.js/tree/v6).
 
-![revolt.js](https://img.shields.io/npm/v/revolt.js) ![revolt-api](https://img.shields.io/npm/v/revolt-api?label=Revolt%20API)
+![frenzy.js](https://img.shields.io/npm/v/frenzy.js) ![frenzy-api](https://img.shields.io/npm/v/frenzy-api?label=Revolt%20API)
 
-**revolt.js** is a JavaScript library for interacting with the entire Revolt API.
+**frenzy.js** is a JavaScript library for interacting with the entire Revolt API.
 
 ## Example Usage
 
 ```javascript
 // esm / typescript
-import { Client } from "revolt.js";
+import { Client } from "frenzy.js";
 // ...or commonjs
-const { Client } = require("revolt.js");
+const { Client } = require("frenzy.js");
 
 let client = new Client();
 
@@ -49,13 +49,13 @@ function MyApp() {
 
 ## Revolt API Types
 
-All `revolt-api` types are re-exported from this library under `API`.
+All `frenzy-api` types are re-exported from this library under `API`.
 
 > **Warning**
 > It is advised you do not use this unless necessary, if you find somewhere that isn't covered by the library, please open an issue as this library aims to transform all objects.
 
 ```typescript
-import { API } from "revolt.js";
+import { API } from "frenzy.js";
 
 // API.Channel;
 // API.[..];

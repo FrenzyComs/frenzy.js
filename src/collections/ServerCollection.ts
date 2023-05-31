@@ -1,6 +1,6 @@
 import { batch } from "solid-js";
 
-import { DataCreateServer } from "revolt-api";
+import { DataCreateServer } from "frenzy-api";
 
 import { API, Server } from "..";
 import { HydratedServer } from "../hydration";

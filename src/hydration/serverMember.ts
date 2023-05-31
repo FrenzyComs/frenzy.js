@@ -1,4 +1,4 @@
-import { Member as ApiMember, MemberCompositeKey } from "revolt-api";
+import { Member as ApiMember, MemberCompositeKey } from "frenzy-api";
 
 import { Client, File } from "..";
 import type { Merge } from "../lib/merge";

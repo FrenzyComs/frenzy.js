@@ -8,8 +8,8 @@ import type {
   DataMessageSend,
   OptionsMessageSearch,
   Override,
-} from "revolt-api";
-import { APIRoutes } from "revolt-api/dist/routes";
+} from "frenzy-api";
+import { APIRoutes } from "frenzy-api/dist/routes";
 import { decodeTime, ulid } from "ulid";
 
 import { Message } from "..";

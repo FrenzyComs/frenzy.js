@@ -5,7 +5,7 @@ import {
   Category,
   Role,
   SystemMessageChannels,
-} from "revolt-api";
+} from "frenzy-api";
 
 import { Client, File } from "..";
 

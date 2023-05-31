@@ -1,4 +1,4 @@
-import { DataEditMessage, DataMessageSend } from "revolt-api";
+import { DataEditMessage, DataMessageSend } from "frenzy-api";
 import { decodeTime } from "ulid";
 
 import { MessageCollection } from "../collections";

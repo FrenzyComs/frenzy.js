@@ -1,4 +1,4 @@
-import { DataCreateAccount, WebPushSubscription } from "revolt-api";
+import { DataCreateAccount, WebPushSubscription } from "frenzy-api";
 
 import { Client } from "..";
 import { MFA } from "../classes/MFA";

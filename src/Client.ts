@@ -1,8 +1,8 @@
 import { Accessor, Setter, batch, createSignal } from "solid-js";
 
 import EventEmitter from "eventemitter3";
-import { API, Role } from "revolt-api";
-import type { DataLogin, RevoltConfig } from "revolt-api";
+import { API, Role } from "frenzy-api";
+import type { DataLogin, RevoltConfig } from "frenzy-api";
 
 import { Channel, Emoji, Message, Server, ServerMember, User } from "./classes";
 import {
@@ -296,7 +296,7 @@ export class Client extends EventEmitter<Events> {
     (this.api as API) = new API({
       baseURL: this.options.baseURL,
       authentication: {
-        revolt: this.#session,
+        frenzy: this.#session,
       },
     });
   }

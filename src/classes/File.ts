@@ -1,4 +1,4 @@
-import { Metadata } from "revolt-api";
+import { Metadata } from "frenzy-api";
 
 import { API, Client } from "..";
 

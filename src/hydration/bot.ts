@@ -1,4 +1,4 @@
-import { Bot as ApiBot } from "revolt-api";
+import { Bot as ApiBot } from "frenzy-api";
 
 import { Hydrate } from ".";
 

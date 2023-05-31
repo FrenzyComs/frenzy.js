@@ -3,7 +3,7 @@ import {
   BotInformation,
   RelationshipStatus,
   UserStatus,
-} from "revolt-api";
+} from "frenzy-api";
 
 import { Client, File } from "..";
 

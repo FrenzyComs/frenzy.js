@@ -16,7 +16,7 @@ import type {
   Role,
   Server,
   User,
-} from "revolt-api";
+} from "frenzy-api";
 
 import { Client } from "..";
 import { Merge } from "../lib/merge";

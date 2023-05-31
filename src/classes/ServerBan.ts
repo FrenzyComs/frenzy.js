@@ -1,4 +1,4 @@
-import { MemberCompositeKey } from "revolt-api";
+import { MemberCompositeKey } from "frenzy-api";
 
 import { API, Client } from "..";
 

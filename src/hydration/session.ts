@@ -1,4 +1,4 @@
-import { SessionInfo as ApiSession } from "revolt-api";
+import { SessionInfo as ApiSession } from "frenzy-api";
 
 import { Hydrate } from ".";
 

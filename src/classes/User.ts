@@ -1,4 +1,4 @@
-import { DataEditUser, Presence } from "revolt-api";
+import { DataEditUser, Presence } from "frenzy-api";
 import { decodeTime } from "ulid";
 
 import { UserCollection } from "../collections";

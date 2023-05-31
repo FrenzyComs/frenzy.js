@@ -2149,9 +2149,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"revolt-api@npm:^0.5.19":
+"frenzy-api@npm:^0.5.19":
   version: 0.5.19
-  resolution: "revolt-api@npm:0.5.19"
+  resolution: "frenzy-api@npm:0.5.19"
   dependencies:
     "@insertish/oapi": 0.1.18
     axios: ^0.26.1
@@ -2160,9 +2160,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"revolt.js@workspace:.":
+"frenzy.js@workspace:.":
   version: 0.0.0-use.local
-  resolution: "revolt.js@workspace:."
+  resolution: "frenzy.js@workspace:."
   dependencies:
     "@mxssfd/typedoc-theme": ^1.1.1
     "@solid-primitives/map": ^0.4.3
@@ -2181,7 +2181,7 @@ __metadata:
     isomorphic-ws: ^5.0.0
     long: ^5.2.1
     prettier: ^2.8.7
-    revolt-api: ^0.5.19
+    frenzy-api: ^0.5.19
     solid-js: ^1.7.3
     tsc-watch: ^6.0.0
     typed-emitter: ^2.1.0

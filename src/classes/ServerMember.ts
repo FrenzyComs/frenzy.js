@@ -2,7 +2,7 @@ import type {
   DataBanCreate,
   DataMemberEdit,
   MemberCompositeKey,
-} from "revolt-api";
+} from "frenzy-api";
 
 import { ServerMemberCollection } from "../collections";
 import { bitwiseAndEq, calculatePermission } from "../permissions/calculator";

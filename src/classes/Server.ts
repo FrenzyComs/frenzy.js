@@ -8,7 +8,7 @@ import type {
   DataEditRole,
   DataEditServer,
   Override,
-} from "revolt-api";
+} from "frenzy-api";
 import { decodeTime } from "ulid";
 
 import { ServerMember, User } from "..";
