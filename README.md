@@ -5,9 +5,9 @@
 >
 > You can find the [version 6 README here](https://github.com/FrenzyComs/frenzy.js/tree/v6).
 
-![frenzy.js](https://img.shields.io/npm/v/frenzy.js) ![frenzy-api](https://img.shields.io/npm/v/frenzy-api?label=Revolt%20API)
+![frenzy.js](https://img.shields.io/npm/v/frenzy.js) ![frenzy-api](https://img.shields.io/npm/v/frenzy-api?label=Frenzy%20API)
 
-**frenzy.js** is a JavaScript library for interacting with the entire Revolt API.
+**frenzy.js** is a JavaScript library for interacting with the entire Frenzy API.
 
 ## Example Usage
 
@@ -47,7 +47,7 @@ function MyApp() {
 }
 ```
 
-## Revolt API Types
+## Frenzy API Types
 
 All `frenzy-api` types are re-exported from this library under `API`.
 
