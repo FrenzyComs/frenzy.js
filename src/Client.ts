@@ -296,7 +296,7 @@ export class Client extends EventEmitter<Events> {
     (this.api as API) = new API({
       baseURL: this.options.baseURL,
       authentication: {
-        frenzy: this.#session,
+        revolt: this.#session,
       },
     });
   }

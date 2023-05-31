@@ -1234,14 +1234,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"frenzy-api@git+https://github.com/frenzycoms/api.git":
+"frenzy-api@npm:0.5.19":
   version: 0.5.19
-  resolution: "frenzy-api@https://github.com/frenzycoms/api.git#commit=7b6acc5f05afc6ade33f13b3bfa5645ba4f2234b"
+  resolution: "frenzy-api@npm:0.5.19"
   dependencies:
     "@insertish/oapi": 0.1.18
     axios: ^0.26.1
     lodash.defaultsdeep: ^4.6.1
-  checksum: bef340dbffb857d0477719b63554a48879fe9105a564742835d3e72b8b55effaefb503482102690d9fb60dd5acf44248c9985d9fe2d6eb2ca79d239c34ffeff9
+  checksum: a031bb12e6c48e503e7b1b3d9935e7ea45fe5c5ca06fe7ce305faacd27f42ebec13f2fcffc563724fba300212c589a7ad8e470e63f3cf8305d9d3847d73303cb
   languageName: node
   linkType: hard
 
@@ -1263,7 +1263,7 @@ __metadata:
     eslint-plugin-solid: ^0.12.0
     eslint-plugin-spellcheck: ^0.0.20
     eventemitter3: ^5.0.0
-    frenzy-api: "git+https://github.com/frenzycoms/api.git"
+    frenzy-api: 0.5.19
     isomorphic-ws: ^5.0.0
     long: ^5.2.1
     prettier: ^2.8.7
